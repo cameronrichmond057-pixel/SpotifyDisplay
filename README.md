@@ -9,3 +9,4 @@ This project combines embedded programming, networking, SPI communication, and h
 Displays current Spotify song
 Shows artist name
 Automatically updates when the track changes
+<img width="1264" height="791" alt="Screenshot 2026-04-07 121510" src="https://github.com/user-attachments/assets/887d997b-263f-4c0a-b51f-6810709261ab" />
